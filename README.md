@@ -14,11 +14,18 @@ This project is a custom knowledge base chatbot built using Streamlit and variou
 1. Clone the repository:
 
     ```bash
-    git clone <repository_url>
-    cd <repository_name>
+    git clone https://github.com/Swamibhuvanesan/LLM-project.git
+    cd LLM-project
     ```
 
-2. Install the required dependencies:
+2. Create and activate a virtual environment (recommended):
+
+    ```bash
+    python -m venv newenv
+    source newenv/bin/activate  # On Windows, use `newenv\Scripts\activate`
+    ```
+
+3. Install the required dependencies:
 
     ```bash
     pip install -r requirements.txt
@@ -52,6 +59,13 @@ This project is a custom knowledge base chatbot built using Streamlit and variou
 - **Question Answering Model**: `distilbert-base-uncased-distilled-squad`.
 - **Generative Model**: `gpt2`.
 
+## Notes
+
+- **Local Disk Space**: Ensure you have sufficient local disk space to store the downloaded models.
+- **Model Installation**: The models will be downloaded and installed locally when the app is first run. This requires an internet connection.
+- **Swappable Models**: The models used in this project can be easily swapped for other models from the Hugging Face library, making it flexible for different use cases.
+- **License**: The models used are under the Apache 2.0 license, which allows for broad usage with proper attribution.
+
 ## Screenshot
 
 ![Project Screenshot](path_to_your_image.png)
@@ -67,7 +81,7 @@ This project is a custom knowledge base chatbot built using Streamlit and variou
 
 ## License
 
-This project is licensed under the Apache 2.0.
+This project is licensed under the MIT License.
 
 ## Acknowledgements
 
