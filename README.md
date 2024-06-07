@@ -69,11 +69,11 @@ This project is a custom knowledge base chatbot built using Streamlit and variou
 ## Screenshot
 
 <div align="center">
-  <img src="https://github.com/Swamibhuvanesan/Other-works/blob/main/resource/QA.png" width="500" height="300" alt="png">
+  <img src="https://github.com/Swamibhuvanesan/Other-works/blob/main/resource/QA.png" width="1000" height="500" alt="png">
 </div>
 
 <div align="center">
-  <img src="https://github.com/Swamibhuvanesan/Other-works/blob/main/resource/Generative.png" width="500" height="300" alt="png">
+  <img src="https://github.com/Swamibhuvanesan/Other-works/blob/main/resource/Generative.png" width="1000" height="500" alt="png">
 </div>
 
 ## Contributing
