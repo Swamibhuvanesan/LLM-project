@@ -56,8 +56,8 @@ This project is a custom knowledge base chatbot built using Streamlit and variou
 ## Models Used
 
 - **Sentence Transformer**: For embedding documents and queries.
-- **Question Answering Model**: `distilbert-base-uncased-distilled-squad`.
-- **Generative Model**: `gpt2`.
+- **Question Answering Model**: `deepset/roberta-base-squad2`.
+- **Generative Model**: `EleutherAI/gpt-neo-2.7B`.
 
 ## Notes
 
