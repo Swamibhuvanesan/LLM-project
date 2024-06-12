@@ -56,8 +56,8 @@ This project is a custom knowledge base chatbot built using Streamlit and variou
 ## Models Used
 
 - **Sentence Transformer**: For embedding documents and queries.
-- **Question Answering Model**: `distilbert-base-uncased-distilled-squad`.
-- **Generative Model**: `gpt2`.
+- **Question Answering Model**: `deepset/roberta-base-squad2`.
+- **Generative Model**: `EleutherAI/gpt-neo-2.7B`.
 
 ## Notes
 
@@ -68,7 +68,13 @@ This project is a custom knowledge base chatbot built using Streamlit and variou
 
 ## Screenshot
 
-![Project Screenshot](path_to_your_image.png)
+<div align="center">
+  <img src="https://github.com/Swamibhuvanesan/Other-works/blob/main/resource/QA.png" width="1500" height="500" alt="png">
+</div>
+
+<div align="center">
+  <img src="https://github.com/Swamibhuvanesan/Other-works/blob/main/resource/Generative.png" width="1500" height="500" alt="png">
+</div>
 
 ## Contributing
 
@@ -81,7 +87,7 @@ This project is a custom knowledge base chatbot built using Streamlit and variou
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the Apache 2.0 License.
 
 ## Acknowledgements
 
