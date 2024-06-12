@@ -8,7 +8,7 @@ import json
 import warnings
 
 # Set API Key
-os.environ['HF_API_KEY'] = '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'
+os.environ['HF_API_KEY'] = 'hf_' #replace with your Key.
 
 # Initialize the sentence transformer model for embeddings
 @st.cache_resource(show_spinner=False)
