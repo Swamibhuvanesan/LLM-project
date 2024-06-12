@@ -1,0 +1,9 @@
+streamlit
+sentence-transformers
+transformers
+numpy
+unstructured
+faiss-cpu
+langchain-community
+langchain
+torch
