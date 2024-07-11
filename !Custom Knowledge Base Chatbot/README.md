@@ -69,7 +69,7 @@ This project is a custom knowledge base chatbot built using Streamlit and variou
 ## Screenshot
 
 <div align="center">
-  <img src="https://github.com/Swamibhuvanesan/Other-works/blob/main/resource/QA.png" width="1500" height="500" alt="png">
+  <img src="resource/QA.png" width="1500" height="500" alt="png">
 </div>
 
 <div align="center">
