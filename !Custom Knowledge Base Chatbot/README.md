@@ -73,7 +73,7 @@ This project is a custom knowledge base chatbot built using Streamlit and variou
 </div>
 
 <div align="center">
-  <img src="https://github.com/Swamibhuvanesan/Other-works/blob/main/resource/Generative.png" width="1500" height="500" alt="png">
+  <img src="resource/Generative.png" width="1500" height="500" alt="png">
 </div>
 
 ## Contributing
